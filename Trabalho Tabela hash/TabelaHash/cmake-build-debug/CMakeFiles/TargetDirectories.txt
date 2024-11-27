@@ -1,0 +1,3 @@
+C:/Users/Caio Moreira Cancela/Desktop/Trabalho Tabela hash/TabelaHash/cmake-build-debug/CMakeFiles/TabelaHashSondagemLinear.dir
+C:/Users/Caio Moreira Cancela/Desktop/Trabalho Tabela hash/TabelaHash/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Caio Moreira Cancela/Desktop/Trabalho Tabela hash/TabelaHash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
